@@ -1,4 +1,4 @@
-![Happy Christmas](Christmas.png)
+![yein-anna-kang](Anna Kang.jpg)
 
 👋 Hi, I'm Anna Kang! I'm a Master's student studying Business Analytics at Duke Fuqua School of Business. I also studied Hospitality Management and Information Science for my undergraduate at Cornell University.  
 
