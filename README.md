@@ -1,5 +1,7 @@
-![yein-anna-kang](Anna Kang.jpg)
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/78775412/159088926-fa5b15e2-923c-4fc4-af36-d9c27cd9045f.jpg" width=50% height=50% align="center">
+</p>
+  
 👋 Hi, I'm Anna Kang! I'm a Master's student studying Business Analytics at Duke Fuqua School of Business. I also studied Hospitality Management and Information Science for my undergraduate at Cornell University.  
 
 💻 I'm adept at using a wide range of programming languages and softwares including Python, R, SQL, Tableau, SAS, SPSS, HTML, CSS, PHP, and `Stata, Adobe Analytics, Salesforce, SAP, and Advanced Excel (VBA, Solver, TreePlan, Crystal Ball, Sensit). Through various courses, research endeavors, and internship experiences, I found my passion for such areas as machine learning, statistical testing, econometrics, data visualization, business modeling, a/b testing, and churn analysis.
